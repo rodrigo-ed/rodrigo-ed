@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rodrigo Eduardo 👋
 
 - Estudante de Análise e Desenvolvimento de Sistemas
-- Estudando Front end
+- Desenvolvedor Front end
 -  Pronouns: ele/dele
 
 <div>
