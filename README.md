@@ -25,7 +25,6 @@
 - 👨‍💻 Desenvolvedor Front-end & Back-end iniciante
 - 🌱 Atualmente aprendendo: **React**, **Node.js**, **Python**
 - 💡 Apaixonado por desafios e novas tecnologias
-- ⚡ Gosto de contribuir em projetos open source e criar soluções úteis
 
 ---
 <!--
