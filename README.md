@@ -1,7 +1,7 @@
 # 👋 Rodrigo Eduardo  
 
 💻 Desenvolvedor em constante aprendizado, apaixonado por tecnologia e sempre em busca de novos desafios.  
-🎯 Explorando o mundo do **Desenvolvimento software**.  
+🎯 Explorando o mundo do **Desenvolvimento de software**.  
 
 ---
 
