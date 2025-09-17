@@ -1,4 +1,4 @@
-# 👋 Rodrigo Eduardo  
+# 👋 Rodrigo Almeida  
 
 💻 Desenvolvedor em constante aprendizado, apaixonado por tecnologia e sempre em busca de novos desafios.  
 🎯 Explorando o mundo do **Desenvolvimento de software**.  
