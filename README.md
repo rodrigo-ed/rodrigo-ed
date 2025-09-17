@@ -3,17 +3,6 @@
 💻 Desenvolvedor em constante aprendizado, apaixonado por tecnologia e sempre em busca de novos desafios.  
 🎯 Explorando o mundo do **Desenvolvimento de software**.  
 
----
-
-## 📌 Escolha o idioma | Choose your language  
-
-- 🇧🇷 Português (abaixo)  
-- 🇺🇸 English (scroll down or expand 👇)  
-
----
-
-## 🇧🇷 Versão em Português  
-
 ### 🚀 Tecnologias  
 - JavaScript  
 - HTML5 & CSS3  
