@@ -7,14 +7,9 @@
 - JavaScript  
 - HTML5 & CSS3  
 - Python
+- Java
 - Análise de Dados
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-ed&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-ed&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 ### 🌐 Contato  
 - 📧 Email: **eduardorodrigoalmeida18@gmail.com**  
